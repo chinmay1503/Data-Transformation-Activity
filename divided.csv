@@ -1,0 +1,567 @@
+,State,Town,University
+1,Alabama,Auburn ,Auburn University
+2,Alabama,Florence ,University of North Alabama
+3,Alabama,Jacksonville ,Jacksonville State University
+4,Alabama,Livingston ,University of West Alabama
+5,Alabama,Montevallo ,University of Montevallo
+6,Alabama,Troy ,Troy University
+7,Alabama,Tuscaloosa ,"University of Alabama, Stillman College, Shelton State"
+8,Alabama,Tuskegee ,Tuskegee University
+9,Alaska,Tuskegee ,Tuskegee University
+10,Alaska,Fairbanks ,University of Alaska Fairbanks
+11,Arizona,Fairbanks ,University of Alaska Fairbanks
+12,Arizona,Flagstaff ,Northern Arizona University
+13,Arizona,Tempe ,Arizona State University
+14,Arizona,Tucson ,University of Arizona
+15,Arkansas,Tucson ,University of Arizona
+16,Arkansas,Arkadelphia ,"Henderson State University, Ouachita Baptist University"
+17,Arkansas,Conway ,"Central Baptist College, Hendrix College, University of Central Arkansas"
+18,Arkansas,Fayetteville ,University of Arkansas
+19,Arkansas,Jonesboro ,Arkansas State University
+20,Arkansas,Magnolia ,Southern Arkansas University
+21,Arkansas,Monticello ,University of Arkansas at Monticello
+22,Arkansas,Russellville ,Arkansas Tech University
+23,Arkansas,Searcy ,Harding University
+24,California,Searcy ,Harding University
+25,California,Angwin ,Pacific Union College
+26,California,Arcata ,Humboldt State University
+27,California,Berkeley ,"University of California, Berkeley"
+28,California,Chico ,"California State University, Chico"
+29,California,Claremont ,"Claremont McKenna College, Pomona College, Harvey Mudd College, Scripps College, Pitzer College, Keck Graduate Institute, Claremont Graduate University"
+30,California,Cotati ,"California State University, Sonoma"
+31,California,Davis ,"University of California, Davis"
+32,California,Irvine ,"University of California, Irvine"
+33,California,Isla Vista ,"University of California, Santa Barbara"
+34,California,"University Park, Los Angeles ",University of Southern California
+35,California,Merced ,"University of California, Merced"
+36,California,Orange ,Chapman University
+37,California,Palo Alto ,Stanford University
+38,California,Pomona ,"Cal Poly Pomona, WesternU"
+39,California,Redlands ,University of Redlands
+40,California,Riverside ,"University of California, Riverside, California Baptist University, La Sierra University"
+41,California,Sacramento ,"California State University, Sacramento"
+42,California,"University District, San Bernardino ","California State University, San Bernardino, American Sports University"
+43,California,San Diego ,"University of California, San Diego, San Diego State University"
+44,California,San Luis Obispo ,California Polytechnic State University
+45,California,Santa Barbara ,"Fielding Graduate University, Santa Barbara City College, University of California, Santa Barbara, Westmont College"
+46,California,Santa Cruz ,"University of California, Santa Cruz"
+47,California,Turlock ,"California State University, Stanislaus"
+48,California,"Westwood, Los Angeles ","University of California, Los Angeles"
+49,California,Whittier ,Whittier CollegeRio Hondo College
+50,Colorado,Whittier ,Whittier CollegeRio Hondo College
+51,Colorado,Alamosa ,Adams State College
+52,Colorado,Boulder ,University of Colorado at Boulder
+53,Colorado,Durango ,Fort Lewis College
+54,Colorado,Fort Collins ,Colorado State University
+55,Colorado,Golden ,Colorado School of Mines
+56,Colorado,Grand Junction ,Colorado Mesa University
+57,Colorado,Greeley ,University of Northern Colorado
+58,Colorado,Gunnison ,Western State College
+59,Colorado,"Pueblo, Colorado ",Colorado State University
+60,Connecticut,"Pueblo, Colorado ",Colorado State University
+61,Connecticut,Fairfield ,"Fairfield University, Sacred Heart University"
+62,Connecticut,Middletown ,Wesleyan University
+63,Connecticut,New Britain ,Central Connecticut State University
+64,Connecticut,New Haven ,"Yale University, University of New Haven, Southern Connecticut State University, Albertus Magnus College, Quinnipiac University"
+65,Connecticut,New London ,"Connecticut College, US Coast Guard Academy, Mitchell College"
+66,Connecticut,Storrs ,University of Connecticut
+67,Connecticut,Willimantic ,Eastern Connecticut State University
+68,Delaware,Willimantic ,Eastern Connecticut State University
+69,Delaware,Dover ,Delaware State University
+70,Delaware,Newark ,University of Delaware
+71,Florida,Newark ,University of Delaware
+72,Florida,Ave Maria ,Ave Maria University
+73,Florida,Boca Raton ,Florida Atlantic University
+74,Florida,Coral Gables ,University of Miami
+75,Florida,DeLand ,Stetson University
+76,Florida,Estero ,Florida Gulf Coast University
+77,Florida,Gainesville ,"University of Florida, Santa Fe College"
+78,Florida,Orlando ,University of Central Florida
+79,Florida,Sarasota ,"New College of Florida, Ringling College of Art and Design, State College of Florida, Manatee"
+80,Florida,St. Augustine ,Flagler College
+81,Florida,St. Leo ,St. Leo University
+82,Florida,Tallahassee ,"Florida State University, Florida A&M University"
+83,Florida,Tampa ,University of South Florida
+84,Georgia,Tampa ,University of South Florida
+85,Georgia,Albany ,Albany State University
+86,Georgia,Athens ,University of Georgia
+87,Georgia,Atlanta ,"Georgia State University, Georgia Tech, Emory"
+88,Georgia,Carrollton ,University of West Georgia
+89,Georgia,Demorest ,Piedmont College
+90,Georgia,Fort Valley ,Fort Valley State University
+91,Georgia,Kennesaw ,Kennesaw State University
+92,Georgia,Milledgeville ,Georgia College & State University
+93,Georgia,Mount Vernon ,Brewton
+94,Georgia,Oxford ,Oxford College
+95,Georgia,Rome ,"Berry College, Shorter University"
+96,Georgia,Savannah ,"Armstrong Atlantic State University, Savannah State University, Savannah College of Art and Design"
+97,Georgia,Statesboro ,Georgia Southern University
+98,Georgia,Valdosta ,Valdosta State University
+99,Georgia,Waleska ,Reinhardt College
+100,Georgia,Young Harris ,Young Harris College
+101,Hawaii,Young Harris ,Young Harris College
+102,Hawaii,Manoa ,University of Hawaii at Manoa
+103,Idaho,Manoa ,University of Hawaii at Manoa
+104,Idaho,Moscow ,University of Idaho
+105,Idaho,Pocatello ,Idaho State University
+106,Idaho,Rexburg ,BYU
+107,Illinois,Rexburg ,BYU
+108,Illinois,Carbondale ,Southern Illinois University Carbondale
+109,Illinois,Champaign,University of Illinois at Urbana
+110,Illinois,Charleston ,Eastern Illinois University
+111,Illinois,DeKalb ,Northern Illinois University
+112,Illinois,Edwardsville ,Southern Illinois University Edwardsville
+113,Illinois,Evanston ,Northwestern University
+114,Illinois,Lebanon ,McKendree University
+115,Illinois,Macomb ,Western Illinois University
+116,Illinois,Normal ,Illinois State University
+117,Illinois,Peoria ,Bradley University
+118,Indiana,Peoria ,Bradley University
+119,Indiana,Bloomington ,Indiana University Bloomington
+120,Indiana,Crawfordsville ,Wabash College
+121,Indiana,Greencastle ,DePauw University
+122,Indiana,Hanover ,Hanover College
+123,Indiana,Marion ,Indiana Wesleyan University
+124,Indiana,Muncie ,Ball State University
+125,Indiana,Oakland City ,Oakland City University
+126,Indiana,Richmond ,Earlham College
+127,Indiana,Richmond ,Notre Dame University
+128,Indiana,Terre Haute ,"Indiana State University, Rose"
+129,Indiana,Upland ,Taylor University
+130,Indiana,Valparaiso ,Valparaiso University
+131,Indiana,West Lafayette ,Purdue University
+132,Iowa,West Lafayette ,Purdue University
+133,Iowa,Ames ,Iowa State University
+134,Iowa,Cedar Falls ,University of Northern Iowa
+135,Iowa,"Cedar Rapids, Iowa ",Coe College 
+136,Iowa,Decorah ,Luther College
+137,Iowa,Fayette ,Upper Iowa University
+138,Iowa,Grinnell ,Grinnell College
+139,Iowa,Iowa City ,University of Iowa
+140,Iowa,Lamoni ,Graceland University
+141,Iowa,"Mount Vernon, ",Cornell College
+142,Iowa,Orange City ,Northwestern College
+143,Iowa,Sioux Center ,Dordt College
+144,Iowa,Storm Lake ,Buena Vista University
+145,Iowa,Waverly ,Wartburg College
+146,Kansas,Waverly ,Wartburg College
+147,Kansas,Baldwin City ,Baker University
+148,Kansas,Emporia ,Emporia State University
+149,Kansas,Hays ,Fort Hays State University
+150,Kansas,Lawrence ,"University of Kansas, Haskell Indian Nations University"
+151,Kansas,Manhattan ,"Kansas State University, Manhattan Christian College"
+152,Kansas,Pittsburg ,Pittsburg State University
+153,Kentucky,Pittsburg ,Pittsburg State University
+154,Kentucky,Bowling Green ,Western Kentucky University
+155,Kentucky,Columbia ,Lindsey Wilson College
+156,Kentucky,Georgetown ,Georgetown College
+157,Kentucky,Highland Heights ,Northern Kentucky University
+158,Kentucky,Highland Heights ,Northern Kentucky University
+159,Kentucky,Louisville ,University of Louisville
+160,Kentucky,Morehead ,Morehead State University
+161,Kentucky,Murray ,Murray State University
+162,Kentucky,Richmond ,Eastern Kentucky University
+163,Kentucky,Williamsburg ,University of the Cumberlands
+164,Kentucky,Wilmore ,"Asbury University, Asbury Theological Seminary"
+165,Louisiana,Wilmore ,"Asbury University, Asbury Theological Seminary"
+166,Louisiana,Baton Rouge ,"Louisiana State University, Southern University"
+167,Louisiana,Grambling ,Grambling State University
+168,Louisiana,Hammond ,Southeastern Louisiana University
+169,Louisiana,Lafayette ,University of Louisiana at Lafayette
+170,Louisiana,Monroe ,University of Louisiana at Monroe
+171,Louisiana,Natchitoches ,Northwestern State University
+172,Louisiana,Ruston ,Louisiana Tech University
+173,Louisiana,Thibodaux ,Nicholls State University
+174,Maine,Thibodaux ,Nicholls State University
+175,Maine,Augusta ,University of Maine at Augusta
+176,Maine,Bar Harbor ,College of the Atlantic
+177,Maine,Brunswick ,Bowdoin College
+178,Maine,Farmington ,University of Maine at Farmington
+179,Maine,Fort Kent ,University of Maine at Fort Kent
+180,Maine,Gorham ,University of Southern Maine
+181,Maine,"Lewiston, Maine ",Bates College
+182,Maine,Orono ,University of Maine
+183,Maine,Waterville ,"Thomas College, Colby College"
+184,Maryland,Waterville ,"Thomas College, Colby College"
+185,Maryland,Annapolis ,"United States Naval Academy, St. John's College"
+186,Maryland,Chestertown ,Washington College
+187,Maryland,College Park ,"University of Maryland, College Park"
+188,Maryland,Cumberland ,Allegany College of Maryland
+189,Maryland,Emmitsburg ,Mount St. Mary's University
+190,Maryland,Frostburg ,Frostburg State University
+191,Maryland,Princess Anne ,University of Maryland Eastern Shore
+192,Maryland,Towson ,"Towson University, Goucher College"
+193,Maryland,Salisbury ,Salisbury University
+194,Maryland,Westminster ,McDaniel College
+195,Massachusetts,Westminster ,McDaniel College
+196,Massachusetts,Boston ,"Boston University, Boston College, Boston Conservatory, New England Conservatory, Brandeis University, Northeastern University, UMass Boston, Emmanuel College, Bunker Hill Community College, Roxbury Community College, Suffolk University, Simmons College, among many others"
+197,Massachusetts,Bridgewater ,Bridgewater State College
+198,Massachusetts,Cambridge ,"Harvard University, Massachusetts Institute of Technology"
+199,Massachusetts,Chestnut Hill ,Boston College
+200,Massachusetts,Chestnut Hill ,Boston College
+201,Massachusetts,Dudley ,Nichols College
+202,Massachusetts,North Grafton ,Cummings School of Veterinary Medicine at Tufts University
+203,Massachusetts,Paxton ,Anna Maria College
+204,Massachusetts,Worcester ,"Assumption, Becker, Clark University, Holy Cross, Mass. College of Pharmacy & Health Sciences, Quinsigamond Community College, UMass Medical School, Worcester State University, Worcester Polytechnic Institute"
+205,Massachusetts,Worcester ,"Assumption, Becker, Clark University, Holy Cross, Mass. College of Pharmacy & Health Sciences, Quinsigamond Community College, UMass Medical School, Worcester State University, Worcester Polytechnic Institute"
+206,Massachusetts,Amherst ,"Amherst College, Hampshire College, University of Massachusetts Amherst"
+207,Massachusetts,Northampton ,Smith College
+208,Massachusetts,South Hadley ,Mount Holyoke College
+209,Massachusetts,Fitchburg ,Fitchburg State College
+210,Massachusetts,North Adams ,Massachusetts College of Liberal Arts
+211,Massachusetts,Springfield ,American International College
+212,Massachusetts,Waltham ,Bentley University
+213,Massachusetts,Williamstown ,Williams College
+214,Massachusetts,Framingham ,Framingham State University
+215,Michigan,Framingham ,Framingham State University
+216,Michigan,Adrian ,"Adrian College, Siena Heights University"
+217,Michigan,Albion ,Albion College
+218,Michigan,Allendale ,Grand Valley State University
+219,Michigan,Alma ,Alma College
+220,Michigan,Ann Arbor ,University of Michigan
+221,Michigan,Berrien Springs ,Andrews University
+222,Michigan,Big Rapids ,Ferris State University
+223,Michigan,East Lansing ,Michigan State University
+224,Michigan,Flint ,"Kettering University, University of Michigan"
+225,Michigan,Hillsdale ,Hillsdale College
+226,Michigan,Houghton ,Michigan Technological University
+227,Michigan,Kalamazoo ,"Western Michigan University, Kalamazoo College"
+228,Michigan,Marquette ,Northern Michigan University
+229,Michigan,Midland ,Northwood University
+230,Michigan,Mount Pleasant ,Central Michigan University
+231,Michigan,Olivet ,Olivet College
+232,Michigan,Saginaw ,Saginaw Valley State University
+233,Michigan,Sault Ste. Marie ,Lake Superior State University
+234,Michigan,Spring Arbor ,Spring Arbor University
+235,Michigan,Ypsilanti ,Eastern Michigan University
+236,Minnesota,Ypsilanti ,Eastern Michigan University
+237,Minnesota,Bemidji ,Bemidji State University
+238,Minnesota,Crookston ,University of Minnesota Crookston
+239,Minnesota,Crookston ,University of Minnesota Crookston
+240,Minnesota,Crookston ,University of Minnesota Crookston
+241,Minnesota,Mankato ,"Minnesota State University, Mankato"
+242,Minnesota,Marshall ,Southwest Minnesota State University
+243,Minnesota,Moorhead ,"Minnesota State University, Moorhead, Concordia College"
+244,Minnesota,Morris ,University of Minnesota Morris
+245,Minnesota,Northfield ,"Carleton College, St. Olaf College"
+246,Minnesota,Northfield ,"Carleton College, St. Olaf College"
+247,Minnesota,St. Cloud ,"St. Cloud State University, The College of St. Scholastica"
+248,Minnesota,St. Joseph ,College of Saint Benedict
+249,Minnesota,St. Peter ,Gustavus Adolphus College
+250,Minnesota,Winona ,"Winona State University, St. Mary's University of Minnesota"
+251,Mississippi,Winona ,"Winona State University, St. Mary's University of Minnesota"
+252,Mississippi,Cleveland ,Delta State University
+253,Mississippi,Hattiesburg ,University of Southern Mississippi
+254,Mississippi,Itta Bena ,Mississippi Valley State University
+255,Mississippi,Oxford ,University of Mississippi
+256,Mississippi,Starkville ,Mississippi State University
+257,Missouri,Starkville ,Mississippi State University
+258,Missouri,Bolivar ,Southwest Baptist University
+259,Missouri,Cape Girardeau ,Southeast Missouri State University
+260,Missouri,Columbia ,"University of Missouri, Stephens College, Columbia College"
+261,Missouri,Fayette ,Central Methodist University
+262,Missouri,Fulton ,Westminster College and William Woods University
+263,Missouri,Kirksville ,"Truman State University, A. T. Still University"
+264,Missouri,Maryville ,Northwest Missouri State University
+265,Missouri,Rolla ,Missouri University of Science and Technology
+266,Missouri,Warrensburg ,University of Central Missouri
+267,Montana,Warrensburg ,University of Central Missouri
+268,Montana,Bozeman ,Montana State University
+269,Montana,Dillon ,University of Montana Western
+270,Montana,Missoula ,University of Montana
+271,Nebraska,Missoula ,University of Montana
+272,Nebraska,Chadron ,Chadron State College
+273,Nebraska,Crete ,Doane College
+274,Nebraska,Kearney ,University of Nebraska at Kearney
+275,Nebraska,Lincoln ,University of Nebraska at Lincoln
+276,Nebraska,Peru ,Peru State College
+277,Nebraska,Seward ,Concordia University
+278,Nebraska,Wayne ,Wayne State College
+279,Nevada,Wayne ,Wayne State College
+280,Nevada,Las Vegas ,"University of Nevada, Las Vegas"
+281,Nevada,Reno ,"University of Nevada, Reno"
+282,New Hampshire,Reno ,"University of Nevada, Reno"
+283,New Hampshire,"New London, New Hampshire ",Colby
+284,New Hampshire,Durham ,University of New Hampshire
+285,New Hampshire,Hanover ,Dartmouth College
+286,New Hampshire,Henniker ,New England College
+287,New Hampshire,Keene ,Keene State College
+288,New Hampshire,Plymouth ,Plymouth State University
+289,New Hampshire,Rindge ,Franklin Pierce University
+290,New Jersey,Rindge ,Franklin Pierce University
+291,New Jersey,Ewing ,The College of New Jersey
+292,New Jersey,Jersey City ,New Jersey City University
+293,New Jersey,Glassboro ,Rowan University
+294,New Jersey,Hoboken ,Stevens Institute of Technology
+295,New Jersey,Madison ,Drew University
+296,New Jersey,Newark ,Rutgers University
+297,New Jersey,New Brunswick ,Rutgers University
+298,New Jersey,Princeton ,Princeton University
+299,New Jersey,Union ,Kean University
+300,New Jersey,West Long Branch ,Monmouth University
+301,New Mexico,West Long Branch ,Monmouth University
+302,New Mexico,Hobbs ,University of the Southwest
+303,New Mexico,Las Cruces ,New Mexico State University
+304,New Mexico,Las Vegas ,New Mexico Highlands University
+305,New Mexico,Portales ,Eastern New Mexico University
+306,New Mexico,Silver City ,Western New Mexico University
+307,New York,Silver City ,Western New Mexico University
+308,New York,Alfred ,"Alfred University, Alfred State College"
+309,New York,Albany ,"SUNY Albany, Siena College, Albany College of Pharmacy, Albany Law School, Albany Medical College, College of Saint Rose, Excelsior College, Maria College of Albany, Mildred Elley, Sage College of Albany"
+310,New York,Aurora ,Wells College
+311,New York,Binghamton ,Binghamton University
+312,New York,Brockport ,SUNY Brockport
+313,New York,Buffalo ,University at Buffalo
+314,New York,Canton ,"St. Lawrence University, SUNY Canton"
+315,New York,Clinton ,Hamilton College
+316,New York,Cobleskill ,SUNY Cobleskill
+317,New York,Delhi ,SUNY Delhi
+318,New York,Fredonia ,SUNY Fredonia
+319,New York,Geneseo ,SUNY Geneseo
+320,New York,Geneva ,Hobart and William Smith Colleges
+321,New York,Hamilton ,Colgate University
+322,New York,Ithaca ,"Cornell University, Ithaca College"
+323,New York,"Morningside Heights, Manhattan ","Columbia University, Barnard College, Teachers College, Manhattan School of Music, Jewish Theological Seminary, Union Theological Seminary, Bank Street College of Education"
+324,New York,New Paltz ,SUNY New Paltz
+325,New York,Oneonta ,"SUNY Oneonta, Hartwick College"
+326,New York,Oswego ,SUNY Oswego
+327,New York,Plattsburgh ,SUNY Plattsburgh
+328,New York,Potsdam ,"SUNY Potsdam, Clarkson University"
+329,New York,Poughkeepsie ,"Vassar College, Marist College"
+330,New York,Purchase ,"Purchase College, Manhattanville College"
+331,New York,Rochester ,"University of Rochester, Rochester Institute of Technology, Nazareth College, St. John Fisher College, Monroe Community College, Roberts Wesleyan College, SUNY Brockport, SUNY Empire State College"
+332,New York,Saratoga Springs ,Skidmore College
+333,New York,Seneca Falls ,New York Chiropractic College
+334,New York,Stony Brook ,Stony Brook University
+335,New York,Syracuse ,"Syracuse University, SUNY ESF, Upstate Medical University"
+336,New York,Tivoli ,Bard College
+337,New York,Troy ,"Rensselaer Polytechnic Institute, Russell Sage College, Hudson Valley Community College"
+338,New York,West Point ,United States Military Academy
+339,North Carolina,West Point ,United States Military Academy
+340,North Carolina,Banner Elk ,Lees
+341,North Carolina,Boiling Springs ,Gardner
+342,North Carolina,Boone ,Appalachian State University
+343,North Carolina,Buies Creek ,Campbell University
+344,North Carolina,Chapel Hill ,University of North Carolina at Chapel Hill
+345,North Carolina,Cullowhee ,Western Carolina University
+346,North Carolina,Davidson ,Davidson College
+347,North Carolina,Durham ,"Duke University, North Carolina Central University"
+348,North Carolina,Elon ,Elon University
+349,North Carolina,Greensboro ,"University of North Carolina at Greensboro, Greensboro College, Guilford College, North Carolina A & T State University, Bennett College"
+350,North Carolina,Greenville ,East Carolina University
+351,North Carolina,Hickory ,Lenoir
+352,North Carolina,Mars Hill ,Mars Hill College
+353,North Carolina,Mount Olive ,Mount Olive College
+354,North Carolina,Pembroke ,University of North Carolina at Pembroke
+355,North Carolina,"Wilmington, North Carolina ",University of North Carolina at Wilmington
+356,North Carolina,Wingate ,Wingate University
+357,North Carolina,Winston,"Wake Forest University, University of North Carolina School of the Arts, Salem College, Winston"
+358,North Dakota,Winston,"Wake Forest University, University of North Carolina School of the Arts, Salem College, Winston"
+359,North Dakota,Fargo ,North Dakota State University
+360,North Dakota,Grand Forks ,University of North Dakota
+361,Ohio,Grand Forks ,University of North Dakota
+362,Ohio,Ada ,Ohio Northern University
+363,Ohio,Alliance ,University of Mount Union
+364,Ohio,Ashland ,Ashland University
+365,Ohio,Athens ,Ohio University
+366,Ohio,Berea ,Baldwin Wallace College
+367,Ohio,Bluffton ,Bluffton University
+368,Ohio,Bowling Green ,Bowling Green State University
+369,Ohio,Cedarville ,Cedarville University
+370,Ohio,Columbus ,Ohio State University
+371,Ohio,Delaware ,Ohio Wesleyan University
+372,Ohio,Fairborn ,Wright State University
+373,Ohio,Findlay ,University of Findlay
+374,Ohio,Gambier ,Kenyon College
+375,Ohio,Granville ,Denison University
+376,Ohio,Hiram ,Hiram College
+377,Ohio,Kent ,Kent State University
+378,Ohio,Nelsonville ,Hocking College
+379,Ohio,New Concord ,Muskingum College
+380,Ohio,Oberlin ,Oberlin College
+381,Ohio,Oxford ,Miami University
+382,Ohio,Rio Grande ,University of Rio Grande
+383,Ohio,Wilberforce ,"Wilberforce University, Central State University"
+384,Oklahoma,Wilberforce ,"Wilberforce University, Central State University"
+385,Oklahoma,Ada ,East Central University
+386,Oklahoma,Alva ,Northwestern Oklahoma State University
+387,Oklahoma,Durant ,Southeastern Oklahoma State University
+388,Oklahoma,Edmond ,"University of Central Oklahoma, Oklahoma Christian University"
+389,Oklahoma,Goodwell ,Oklahoma Panhandle State University
+390,Oklahoma,Langston ,Langston University
+391,Oklahoma,Norman ,University of Oklahoma
+392,Oklahoma,Stillwater ,Oklahoma State University
+393,Oklahoma,Tahlequah ,Northeastern State University
+394,Oklahoma,Tulsa ,The University of Tulsa
+395,Oklahoma,Weatherford ,Southwestern Oklahoma State University
+396,Oregon,Weatherford ,Southwestern Oklahoma State University
+397,Oregon,Ashland ,Southern Oregon University
+398,Oregon,Corvallis ,Oregon State University
+399,Oregon,Eugene ,"Lane Community College, Northwest Christian University, University of Oregon"
+400,Oregon,Forest Grove ,Pacific University
+401,Oregon,Klamath Falls ,"Klamath Community College, Oregon Institute of Technology"
+402,Oregon,La Grande ,Eastern Oregon University
+403,Oregon,Marylhurst ,Marylhurst University
+404,Oregon,McMinnville ,Linfield College
+405,Oregon,Monmouth ,Western Oregon University
+406,Oregon,Newberg ,George Fox University
+407,Pennsylvania,Newberg ,George Fox University
+408,Pennsylvania,Altoona ,Penn State Altoona
+409,Pennsylvania,Annville ,Lebanon Valley College
+410,Pennsylvania,Bethlehem ,"Lehigh University, Moravian College"
+411,Pennsylvania,Bloomsburg ,Bloomsburg University of Pennsylvania
+412,Pennsylvania,Bradford ,University of Pittsburgh at Bradford
+413,Pennsylvania,California ,California University of Pennsylvania
+414,Pennsylvania,Carlisle ,Dickinson College
+415,Pennsylvania,"Cecil B. Moore, Philadelphia, also known as ""Templetown"" ",Temple University
+416,Pennsylvania,Clarion ,Clarion University of Pennsylvania
+417,Pennsylvania,Collegeville ,Ursinus College
+418,Pennsylvania,Cresson ,Mount Aloysius College
+419,Pennsylvania,East Stroudsburg ,East Stroudsburg University of Pennsylvania
+420,Pennsylvania,Edinboro ,Edinboro University of Pennsylvania
+421,Pennsylvania,Erie ,"Gannon University, Mercyhurst College, Penn State Erie"
+422,Pennsylvania,Gettysburg ,Gettysburg College
+423,Pennsylvania,Greensburg ,"Seton Hill University, University of Pittsburgh at Greensburg"
+424,Pennsylvania,Grove City ,Grove City College
+425,Pennsylvania,Huntingdon ,Juniata College
+426,Pennsylvania,Indiana ,Indiana University of Pennsylvania
+427,Pennsylvania,Johnstown ,University of Pittsburgh at Johnstown
+428,Pennsylvania,Kutztown ,Kutztown University of Pennsylvania
+429,Pennsylvania,Lancaster ,Franklin & Marshall
+430,Pennsylvania,Lewisburg ,Bucknell University
+431,Pennsylvania,Lock Haven ,Lock Haven University of Pennsylvania
+432,Pennsylvania,Loretto ,St. Francis University
+433,Pennsylvania,Mansfield ,Mansfield University of Pennsylvania
+434,Pennsylvania,Meadville ,Allegheny College
+435,Pennsylvania,Mont Alto ,Penn State Mont Alto
+436,Pennsylvania,Millersville ,Millersville University of Pennsylvania
+437,Pennsylvania,New Wilmington ,Westminster College
+438,Pennsylvania,North East ,Mercyhurst North East
+439,Pennsylvania,"University City, Philadelphia ","Drexel University, University of Pennsylvania, University of the Sciences in Philadelphia"
+440,Pennsylvania,"Oakland, Pittsburgh ","Carnegie Mellon University, University of Pittsburgh, Carlow University"
+441,Pennsylvania,Reading ,"Albright College, Alvernia University, Penn State Berks"
+442,Pennsylvania,Selinsgrove ,Susquehanna University
+443,Pennsylvania,Shippensburg ,Shippensburg University of Pennsylvania
+444,Pennsylvania,Slippery Rock ,Slippery Rock University of Pennsylvania
+445,Pennsylvania,State College ,Pennsylvania State University
+446,Pennsylvania,Villanova ,Villanova University
+447,Pennsylvania,Waynesburg ,Waynesburg University
+448,Pennsylvania,West Chester ,West Chester University of Pennsylvania
+449,Pennsylvania,Wilkes,"King's College, Wilkes University"
+450,Pennsylvania,Williamsport ,"Lycoming College, Pennsylvania College of Technology"
+451,Rhode Island,Williamsport ,"Lycoming College, Pennsylvania College of Technology"
+452,Rhode Island,Kingston ,University of Rhode Island
+453,Rhode Island,Providence ,"Brown University, "
+454,South Carolina,Providence ,"Brown University, "
+455,South Carolina,Central ,Southern Wesleyan University
+456,South Carolina,Charleston ,"College of Charleston, The Citadel, MUSC"
+457,South Carolina,Clemson ,Clemson University
+458,South Carolina,Clinton ,Presbyterian College
+459,South Carolina,Columbia ,University of South Carolina
+460,South Carolina,Due West ,Erskine College
+461,South Carolina,Florence ,Francis Marion University
+462,South Carolina,Greenwood ,Lander University
+463,South Carolina,Orangeburg ,"South Carolina State University, Claflin University"
+464,South Carolina,Rock Hill ,Winthrop University
+465,South Carolina,Spartanburg ,"Wofford College, Converse College, University of South Carolina Upstate, Spartanburg Methodist College, Edward Via College of Osteopathic Medicine, Spartanburg Community College, Virginia College, Sherman College of Chiropractic"
+466,South Dakota,Spartanburg ,"Wofford College, Converse College, University of South Carolina Upstate, Spartanburg Methodist College, Edward Via College of Osteopathic Medicine, Spartanburg Community College, Virginia College, Sherman College of Chiropractic"
+467,South Dakota,Brookings ,South Dakota State University
+468,South Dakota,Madison ,Dakota State University
+469,South Dakota,Spearfish ,Black Hills State University
+470,South Dakota,Vermillion ,University of South Dakota
+471,Tennessee,Vermillion ,University of South Dakota
+472,Tennessee,Chattanooga ,University of Tennessee at Chattanooga
+473,Tennessee,Collegedale ,Southern Adventist University
+474,Tennessee,Cookeville ,Tennessee Technological University
+475,Tennessee,Harrogate ,Lincoln Memorial University
+476,Tennessee,Henderson ,Freed
+477,Tennessee,Johnson City ,East Tennessee State University
+478,Tennessee,Knoxville ,University of Tennessee
+479,Tennessee,Martin ,University of Tennessee at Martin
+480,Tennessee,McKenzie ,Bethel University
+481,Tennessee,Memphis ,"Christian Brothers University, LeMoyne"
+482,Tennessee,Murfreesboro ,Middle Tennessee State University
+483,Tennessee,Nashville ,"Vanderbilt University, Belmont University, Tennessee State University, Lipscomb University, Fisk University, Aquinas College, Trevecca Nazarene University"
+484,Tennessee,Sewanee ,Sewanee: the University of the South
+485,Texas,Sewanee ,Sewanee: the University of the South
+486,Texas,Abilene ,"Abilene Christian University, Hardin"
+487,Texas,Alpine ,Sul Ross State University
+488,Texas,Austin ,"University of Texas at Austin, St. Edwards University, Huston"
+489,Texas,Beaumont ,Lamar University
+490,Texas,Canyon ,West Texas A&M University
+491,Texas,College Station ,Texas A&M University
+492,Texas,Commerce ,Texas A&M University
+493,Texas,Dallas ,Southern Methodist University
+494,Texas,Denton ,"University of North Texas, Texas Woman's University"
+495,Texas,Fort Worth ,"Texas Christian University, Texas Wesleyan University"
+496,Texas,Georgetown ,Southwestern University
+497,Texas,Huntsville ,Sam Houston State University
+498,Texas,Houston ,"University of Houston, Texas Southern University, Rice University, Houston Baptist University"
+499,Texas,Keene ,Southwestern Adventist University
+500,Texas,Kingsville ,Texas A&M University
+501,Texas,Lubbock ,"Texas Tech University, Lubbock Christian University"
+502,Texas,Nacogdoches ,Stephen F. Austin State University
+503,Texas,Plainview ,Wayland Baptist University
+504,Texas,Prairie View ,Prairie View A&M University
+505,Texas,San Marcos ,Texas State University
+506,Texas,Stephenville ,Tarleton State University
+507,Texas,Waco ,Baylor University
+508,Utah,Waco ,Baylor University
+509,Utah,Cedar City ,Southern Utah University
+510,Utah,Logan ,Utah State University
+511,Utah,Provo ,Brigham Young University
+512,Utah,Orem ,Utah Valley University
+513,Utah,Salt Lake City ,University of Utah
+514,Utah,Ephraim ,Snow College
+515,Vermont,Ephraim ,Snow College
+516,Vermont,Burlington ,"University of Vermont, Champlain College and Saint Michael's College"
+517,Vermont,Castleton ,Castleton State College
+518,Vermont,Johnson ,Johnson State College
+519,Vermont,Lyndonville ,Lyndon State College
+520,Vermont,Middlebury ,Middlebury College
+521,Vermont,Northfield ,Norwich University
+522,Virginia,Northfield ,Norwich University
+523,Virginia,Blacksburg ,Virginia Polytechnic Institute and State University
+524,Virginia,Bridgewater ,Bridgewater College
+525,Virginia,Charlottesville ,University of Virginia
+526,Virginia,Farmville ,"Longwood University, Hampden"
+527,Virginia,Fredericksburg ,University of Mary Washington
+528,Virginia,Harrisonburg ,"James Madison University, Eastern Mennonite University"
+529,Virginia,Lexington ,"Washington and Lee University, Virginia Military Institute"
+530,Virginia,Lynchburg ,"Lynchburg College, Randolph College, Liberty University, Central Virginia Community College"
+531,Virginia,Radford ,Radford University
+532,Virginia,Williamsburg ,The College of William & Mary
+533,Virginia,Wise ,University of Virginia's College at Wise
+534,Virginia,Chesapeake ,"Averett University, DeVry University, Troy University, Tidewater Community College, Strayer University, Everest University, Sentera College of Health Sciences, St Leo University"
+535,Washington,Chesapeake ,"Averett University, DeVry University, Troy University, Tidewater Community College, Strayer University, Everest University, Sentera College of Health Sciences, St Leo University"
+536,Washington,Bellingham ,Western Washington University
+537,Washington,Cheney ,Eastern Washington University
+538,Washington,Ellensburg ,Central Washington University
+539,Washington,Pullman ,Washington State University
+540,Washington,"University District, Seattle ",University of Washington
+541,West Virginia,"University District, Seattle ",University of Washington
+542,West Virginia,Athens ,Concord University
+543,West Virginia,Buckhannon ,West Virginia Wesleyan College
+544,West Virginia,Fairmont ,Fairmont State University
+545,West Virginia,Glenville ,Glenville State College
+546,West Virginia,Huntington ,Marshall University
+547,West Virginia,Montgomery ,West Virginia University Institute of Technology
+548,West Virginia,Morgantown ,West Virginia University
+549,West Virginia,Shepherdstown ,Shepherd University
+550,West Virginia,West Liberty ,West Liberty University
+551,Wisconsin,West Liberty ,West Liberty University
+552,Wisconsin,Appleton ,Lawrence University
+553,Wisconsin,Eau Claire ,University of Wisconsin
+554,Wisconsin,Green Bay ,University of Wisconsin
+555,Wisconsin,La Crosse ,University of Wisconsin
+556,Wisconsin,Madison ,University of Wisconsin
+557,Wisconsin,Menomonie ,University of Wisconsin
+558,Wisconsin,Milwaukee ,"Marquette University, University of Wisconsin"
+559,Wisconsin,Oshkosh ,University of Wisconsin
+560,Wisconsin,Platteville ,University of Wisconsin
+561,Wisconsin,River Falls ,University of Wisconsin
+562,Wisconsin,Stevens Point ,University of Wisconsin
+563,Wisconsin,Waukesha ,Carroll University
+564,Wisconsin,Whitewater ,University of Wisconsin
+565,Wyoming,Whitewater ,University of Wisconsin
+566,Wyoming,Laramie ,University of Wyoming
